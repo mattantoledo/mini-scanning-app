@@ -1,4 +1,4 @@
-# Mini Scannign App
+# Mini Scanning App
 
 This is my first React app I created during a workshop in CS TAU Students Club.
 
