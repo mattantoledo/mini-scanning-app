@@ -1,6 +1,6 @@
 # Mini Scanning App
 
-This is my first React app I created during a workshop in CS TAU Students Club.
+This is my first React app, which I created during a React Workshop in CS TAU Students Club, offered by [@danielsuissa](https://github.com/daniel-suissa) from Sentra.
 
 I also deployed this app to Firebase! Check it out [here](https://mini-scanning-app-c643c.web.app).
 
