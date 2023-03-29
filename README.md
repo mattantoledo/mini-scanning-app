@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+I also deployed this app to Firebase! Check it out [here](https://mini-scanning-app-c643c.web.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
